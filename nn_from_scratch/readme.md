@@ -7,3 +7,9 @@ The objective is to understand the concepts of neural network
 
 After writing this When i use deeplearning framework i understand 
 almost everything I m wrinting and what it does
+
+In this implementation i build a binary classification 
+But the principle is the same if you want to expand it
+You just need to add the loss you want and it derivative 
+
+Clone it and try everithing you want
